@@ -18,5 +18,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsami&show_icons=true&locale=en" alt="muhammadsami" /></p>
+
 
