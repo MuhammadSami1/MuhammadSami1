@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Sami</h1>
-<h3 align="center">A passionate Softwere Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer with a strong commitment to excellence.</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsami&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsami" /> </p>
